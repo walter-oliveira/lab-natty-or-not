@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Beneficio da IA generativa para análise de dados ;)
 
 ## 📒 Descrição
 A utilização de IA generativa para análise de dados é uma abordagem inovadora que pode trazer novos insights e otimizar a maneira como interpretamos grandes volumes de informações.
@@ -29,10 +29,10 @@ Vou detalhar como a IA generativa pode ser usada nesse contexto e os tipos de in
 ## 🤖 Tecnologias Utilizadas
 https://www.kittl.com/
 https://us.idyllic.app/
-
-
+imagem escolhida para cada https://app.leonardo.ai/
 ## 🧐 Processo de Criação
-https://www.kittl.com/
+criando um prompt para o ChatGPT para geração dos tópicos e-book sobre analise da dados utilizando AI generativa
+criando um prompt para a geração da imagem da capa do livro.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
@@ -43,9 +43,10 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-![image](https://github.com/user-attachments/assets/a2656dea-ba34-41bb-86cc-4a388ce98eae)
+![image](https://github.com/user-attachments/assets/5c2349c3-c2b7-404f-9399-2070b94b8225)
 
-![image](https://github.com/user-attachments/assets/ef065b81-2f93-422e-a9bc-9955bbadf4cf)
+
+
 
 
 
